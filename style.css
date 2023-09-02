@@ -1,0 +1,21 @@
+@import url('https://www.fontsaddict.com/fontface/vogue-sans.ttf');
+
+body{
+    font-family: 'Vogue Sans', sans-serif;
+}
+
+.row{
+    margin: 0;
+}
+
+header, .navbar{
+    
+    background-color: #6c8160;
+    
+                                                
+}            
+
+.navbar-light .navbar-nav .nav-link {
+    color: #deddd9;
+    font-size: 18px;
+}
